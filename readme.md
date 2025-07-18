@@ -3,6 +3,7 @@
 
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
+[![Arxiv Paper](https://img.shields.io/badge/arXiv-Paper-red.svg)](https://arxiv.org/abs/2507.12885)
 
 <div align="center">
   <img src="assets/eval.png" alt="Multi-Instance Verification" style="max-height: 300px; width: 95%;"/>
@@ -110,12 +111,11 @@ We extend our sincere gratitude to:
 The paper is coming soon!
 
 ```bibtex
-@misc{varmath2025,
-  author = {Yao, Jian and Cheng, Ran and Tan, Kay Chen},
-  title = {VAR-MATH: Probing True Mathematical Reasoning in Large Language Models via Symbolic Multi-Instance Benchmarks},
-  year = {2025},
-  publisher = {GitHub},
-  journal = {GitHub repository},
-  howpublished = {\url{https://github.com/nigelyaoj/VAR-MATH}}
+@article{varmath2025,
+  title={VAR-MATH: Probing True Mathematical Reasoning in Large Language Models via Symbolic Multi-Instance Benchmarks},
+  author={Yao, Jian and Cheng, Ran and Tan, Kay Chen},
+  journal={arXiv preprint arXiv:2507.12885},
+  year={2025}
 }
+```
 ```
