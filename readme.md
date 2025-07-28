@@ -108,7 +108,6 @@ We extend our sincere gratitude to:
 - The broader open-source community for making models and tools publicly available
 
 ## Citations
-The paper is coming soon!
 
 ```bibtex
 @article{varmath2025,
@@ -117,5 +116,4 @@ The paper is coming soon!
   journal={arXiv preprint arXiv:2507.12885},
   year={2025}
 }
-```
 ```
