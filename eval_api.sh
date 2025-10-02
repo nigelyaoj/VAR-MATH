@@ -1,6 +1,6 @@
 set -ex
 
-DATA_NAME="amc23,aime24,VAR_amc23,VAR_aime24"
+DATA_NAME="amc23,aime24,aime25,VAR_amc23,VAR_aime24,VAR_aime25"
 
 MODEL_NAME_OR_PATH="DeepSeek-R1-0528"
 PROMPT_TYPE="none"

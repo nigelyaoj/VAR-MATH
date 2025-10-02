@@ -105,7 +105,7 @@ def get_answer(candidate_set, var_answer, round_n):
 
 
 
-dataset_name_list = ["amc23", "aime24"]
+dataset_name_list = ["amc23", "aime24", "aime25"]
 
 ### original data
 for dataset_name in dataset_name_list:

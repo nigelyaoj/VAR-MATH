@@ -19,7 +19,7 @@ def load_jsonl(file: Union[str, Path]) -> Iterable[Any]:
                 exit()
 
 
-dataset_list = "VAR_amc23,amc23,VAR_aime24,aime24"
+dataset_list = "VAR_amc23,amc23,VAR_aime24,aime24,VAR_aime25,aime25"
 
 dataset_list = dataset_list.split(",")
 model_name_list = [

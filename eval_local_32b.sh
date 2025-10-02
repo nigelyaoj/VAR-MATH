@@ -1,7 +1,7 @@
 set -ex
 export CUDA_VISIBLE_DEVICES=0,1,2,3
 
-DATA_NAME="amc23,VAR_amc23,aime24,VAR_aime24"
+DATA_NAME="amc23,VAR_amc23,aime24,VAR_aime24,aime25,VAR_aime25"
 
 declare -A MODEL_PROMPT_MAP=(
     ["BytedTsinghua-SIA/DAPO-Qwen-32B"]="qwen2.5-32B"
